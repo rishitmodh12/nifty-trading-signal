@@ -269,9 +269,9 @@ MIT License - Feel free to use for learning and portfolio projects
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [Your Profile]
-- Email: [Your Email]
+**RISHIT MODH**
+- LinkedIn: https://linkedin.com/in/rishit-modh-1b0a26374
+- Email: rishitmodh@gmail.com
 - Portfolio: [Your Website]
 
 ---

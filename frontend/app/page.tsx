@@ -22,8 +22,7 @@ export default function Home() {
     setResult(null)
 
     try {
-      const response = await fetch(`http://localhost:8000/predict`, {
-        method: 'POST',
+    const response = await fetch(`https://nifty-trading-api.onrender.com/predict`, {        method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ date })
       })
@@ -200,7 +199,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="mt-8 text-center">
           <div className="p-6 bg-white/5 backdrop-blur border border-slate-700 rounded-lg">
-            <p className="text-slate-300 font-semibold mb-2">Built by RISHIT</p>
+            <p className="text-slate-300 font-semibold mb-2">Built by RISHIT MODH </p>
             <p className="text-slate-400 text-sm mb-4">Full-Stack AI Trading Signal System</p>
             <div className="flex justify-center gap-4 text-base items-center">
   <a href="https://github.com/rishitmodh12" target="_blank" className="text-blue-400 hover:text-blue-300 transition-colors">

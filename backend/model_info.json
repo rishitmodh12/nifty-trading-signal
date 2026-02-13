@@ -1,0 +1,14 @@
+{
+  "model_type": "Random Forest Classifier",
+  "n_estimators": 200,
+  "train_accuracy": "100.00%",
+  "test_accuracy": "50.00%",
+  "n_features": 36,
+  "n_samples": 310,
+  "classes": [
+    "SELL (0)",
+    "HOLD (1)",
+    "BUY (2)"
+  ],
+  "date_trained": "2026-02-12 11:32:30"
+}

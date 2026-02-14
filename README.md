@@ -272,13 +272,13 @@ MIT License - Feel free to use for learning and portfolio projects
 **RISHIT MODH**
 - LinkedIn: https://linkedin.com/in/rishit-modh-1b0a26374
 - Email: rishitmodh@gmail.com
-- Portfolio: [Your Website]
+- Portfolio: https://nifty-trading-signal.vercel.app/
 
 ---
 
 ## 🙏 Acknowledgments
 
-- NIFTY data from [Source]
+- NIFTY data from Dataset
 - scikit-learn for ML algorithms
 - FastAPI for amazing API framework
 - Next.js team for awesome React framework
